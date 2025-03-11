@@ -24,7 +24,6 @@
   <img align="center" alt="JV-SQL-Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="JV-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/988556823500038226/1013961821415276584/download20220801210114.png">
 </div>
 
 ##
